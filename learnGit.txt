@@ -16,3 +16,4 @@ try rebase again 01
 try rebase again 02
 try interactive rebase 01
 try interactive rebase 02
+try interactive rebase 03
