@@ -9,3 +9,6 @@
 change something in remote branch
 create some conflict
 solved conflict in intellij
+try rebase 01
+try rebase 02
+try rebase 03
