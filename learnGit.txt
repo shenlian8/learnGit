@@ -3,3 +3,4 @@
 3 change from remot
 4 create new remote branch
 5 change on local master
+6 change on remote master
