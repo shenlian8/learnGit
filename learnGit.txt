@@ -12,3 +12,5 @@ solved conflict in intellij
 try rebase 01
 try rebase 02
 try rebase 03
+try rebase again 01
+try rebase again 02
