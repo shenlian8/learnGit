@@ -17,3 +17,4 @@ try rebase again 02
 try interactive rebase 01
 try interactive rebase 02
 try interactive rebase 03
+try cherry-pickK
